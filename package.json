@@ -1,0 +1,26 @@
+{
+  "name": "numbjs",
+  "version": "0.0.1",
+  "description": "A simple JavaScript library to format numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phun-ky/numbjs.git"
+  },
+  "keywords": [
+    "number",
+    "numbers",
+    "formatting",
+    "format",
+    "locale"
+  ],
+  "author": "Alexander Vassbotn Røyne-Helgesen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phun-ky/numbjs/issues"
+  },
+  "homepage": "https://github.com/phun-ky/numbjs"
+}
